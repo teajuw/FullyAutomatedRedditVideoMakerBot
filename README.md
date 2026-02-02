@@ -160,4 +160,3 @@ I recommend setting it to every 7 hours. The `Automator.sh` script also includes
 ## What next
 You can scale up this whole operation and setup multiple enviorments with diffrent accounts, just set them up in a non-interfiaring schedule  
 
-# Shelldon was here 🦞
